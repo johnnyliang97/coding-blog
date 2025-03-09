@@ -1,7 +1,7 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
+title: This is Blog Post 1
+published_at: 2025-03-10
+snippet: Test
 disable_html_sanitization: true
 allow_math: true
 ---
